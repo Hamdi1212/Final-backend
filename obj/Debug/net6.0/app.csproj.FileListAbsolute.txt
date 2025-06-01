@@ -1,0 +1,258 @@
+D:\train\app\bin\Debug\net6.0\appsettings.Development.json
+D:\train\app\bin\Debug\net6.0\appsettings.json
+D:\train\app\bin\Debug\net6.0\app.exe
+D:\train\app\bin\Debug\net6.0\app.deps.json
+D:\train\app\bin\Debug\net6.0\app.runtimeconfig.json
+D:\train\app\bin\Debug\net6.0\app.dll
+D:\train\app\bin\Debug\net6.0\app.pdb
+D:\train\app\bin\Debug\net6.0\Azure.Core.dll
+D:\train\app\bin\Debug\net6.0\Azure.Identity.dll
+D:\train\app\bin\Debug\net6.0\Humanizer.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\train\app\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\train\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\train\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\train\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\train\app\bin\Debug\net6.0\System.CodeDom.dll
+D:\train\app\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\train\app\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\train\app\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\train\app\bin\Debug\net6.0\System.Memory.Data.dll
+D:\train\app\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\train\app\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\train\app\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\train\app\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\train\app\bin\Debug\net6.0\System.Text.Json.dll
+D:\train\app\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\train\app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\train\app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\train\app\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\train\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\train\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\train\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\train\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\train\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\train\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\train\app\obj\Debug\net6.0\app.MvcApplicationPartsAssemblyInfo.cs
+D:\train\app\obj\Debug\net6.0\app.MvcApplicationPartsAssemblyInfo.cache
+D:\train\app\obj\Debug\net6.0\staticwebassets\msbuild.app.Microsoft.AspNetCore.StaticWebAssets.props
+D:\train\app\obj\Debug\net6.0\staticwebassets\msbuild.build.app.props
+D:\train\app\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.app.props
+D:\train\app\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.app.props
+D:\train\app\obj\Debug\net6.0\staticwebassets.pack.json
+D:\train\app\obj\Debug\net6.0\staticwebassets.build.json
+D:\train\app\obj\Debug\net6.0\staticwebassets.development.json
+D:\train\app\obj\Debug\net6.0\scopedcss\bundle\app.styles.css
+D:\train\app\obj\Debug\net6.0\app.csproj.CopyComplete
+D:\train\app\obj\Debug\net6.0\app.dll
+D:\train\app\obj\Debug\net6.0\refint\app.dll
+D:\train\app\obj\Debug\net6.0\app.pdb
+D:\train\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\train\app\obj\Debug\net6.0\ref\app.dll
+D:\train\app\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\appsettings.json
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\app.exe
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\app.deps.json
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\app.runtimeconfig.json
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\app.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\app.pdb
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Humanizer.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\firas\Downloads\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\scopedcss\bundle\app.styles.css
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.csproj.CopyComplete
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.dll
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\refint\app.dll
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.pdb
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+C:\Users\firas\Downloads\app\obj\Debug\net6.0\ref\app.dll
+D:\application final\app\bin\Debug\net6.0\app.exe
+D:\application final\app\bin\Debug\net6.0\app.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\application final\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\application final\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\application final\app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\application final\app\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\application final\app\bin\Debug\net6.0\System.Text.Json.dll
+D:\application final\app\bin\Debug\net6.0\appsettings.Development.json
+D:\application final\app\bin\Debug\net6.0\appsettings.json
+D:\application final\app\bin\Debug\net6.0\app.staticwebassets.endpoints.json
+D:\application final\app\bin\Debug\net6.0\Azure.Core.dll
+D:\application final\app\bin\Debug\net6.0\Azure.Identity.dll
+D:\application final\app\bin\Debug\net6.0\Humanizer.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\application final\app\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\application final\app\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\application final\app\bin\Debug\net6.0\System.CodeDom.dll
+D:\application final\app\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\application final\app\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\application final\app\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\application final\app\bin\Debug\net6.0\System.Memory.Data.dll
+D:\application final\app\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\application final\app\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\application final\app\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\application final\app\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\application final\app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\application final\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\application final\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\application final\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\application final\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\application final\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\application final\app\obj\Debug\net6.0\app.MvcApplicationPartsAssemblyInfo.cs
+D:\application final\app\obj\Debug\net6.0\app.MvcApplicationPartsAssemblyInfo.cache
+D:\application final\app\obj\Debug\net6.0\scopedcss\bundle\app.styles.css
+D:\application final\app\obj\Debug\net6.0\staticwebassets.build.json
+D:\application final\app\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\application final\app\obj\Debug\net6.0\staticwebassets.development.json
+D:\application final\app\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\application final\app\obj\Debug\net6.0\app.csproj.Up2Date
+D:\application final\app\obj\Debug\net6.0\app.dll
+D:\application final\app\obj\Debug\net6.0\refint\app.dll
+D:\application final\app\obj\Debug\net6.0\app.pdb
+D:\application final\app\bin\Debug\net6.0\app.deps.json
+D:\application final\app\bin\Debug\net6.0\app.runtimeconfig.json
+D:\application final\app\bin\Debug\net6.0\app.pdb
+D:\application final\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\application final\app\obj\Debug\net6.0\ref\app.dll
+D:\application final\app\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
