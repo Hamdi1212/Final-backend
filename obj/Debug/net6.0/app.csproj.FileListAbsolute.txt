@@ -256,3 +256,4 @@ D:\application final\app\bin\Debug\net6.0\app.pdb
 D:\application final\app\obj\Debug\net6.0\app.genruntimeconfig.cache
 D:\application final\app\obj\Debug\net6.0\ref\app.dll
 D:\application final\app\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\application final\app\obj\Debug\net6.0\app.sourcelink.json
